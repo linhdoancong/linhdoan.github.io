@@ -1,4 +1,4 @@
-# Tiep Nguyen
+# Linh Doan
 
 A web & mobile developer based in HCM city who specialize in simplicity and efficiency
 
